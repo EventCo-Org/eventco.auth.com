@@ -1,1 +1,0 @@
-# eventco.auth.com
